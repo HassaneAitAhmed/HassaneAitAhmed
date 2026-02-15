@@ -77,10 +77,6 @@
 
 <div align="center">
   
-  <a href="https://github.com/HassaneAitAhmed">
-    <img src="https://github-readme-stats.vercel.app/api?username=HassaneAitAhmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  </a>
-  
 </div>
 
 <div align="center">
