@@ -109,7 +109,7 @@ I'm always open to interesting conversations and collaboration opportunities!
   
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-brightgreen?style=for-the-badge)](https://portfolio-one-wheat-42.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hassane-ait-ahmed-lamara-54b587310/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-red?style=for-the-badge&logo=gmail)](mailto:hassaneaitahmed@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-red?style=for-the-badge&logo=gmail)](mailto:hassaneaitahmedlamara@gmail.com)
 
 </div>
 
